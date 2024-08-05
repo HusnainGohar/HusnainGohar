@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💼 Working as a Full Stack Software Engineer at Tkxel.
+- 💼 Working as a Senior Software Engineer at Tkxel.
 
 ##
 
@@ -41,11 +41,14 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
+![Railways](https://img.shields.io/badge/-Railways-333333?style=flat&logo=railway)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro)
 
 <br/>
 
