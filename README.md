@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 💼 Working as a Senior Software Engineer at Tkxel.
+I'm Husnain Gohar, a passionate and experienced Full Stack JavaScript Developer currently working as a Senior Software Engineer at Tkxel.
 
-##
+## Overview
+
+With over five years of professional experience, I specialize in building high-quality, scalable applications using a diverse set of technologies. My expertise lies in frontend development with React and React Native, as well as backend development with Node.js and Express. I thrive in collaborative environments and enjoy tackling complex problems with innovative solutions.
 
 <div align="center">
   <a href="https://github.com/HusnainGohar">
@@ -35,6 +37,10 @@
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
 <br/>
 
 **DevOps**
@@ -46,12 +52,21 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
 ![Railways](https://img.shields.io/badge/-Railways-333333?style=flat&logo=railway)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
 
+## Summary
+
+I'm a dedicated developer with a strong grip on React, React Native, and Node.js. I have a proven track record of delivering robust and efficient solutions, from real-time communication applications to finance-related platforms. My proficiency in state management libraries like Redux and Zustand, along with API management using React Query and Axios, allows me to build seamless, high-performing applications.
+
+I'm particularly skilled in:
+- **Real-Time Communication:** Using technologies like Agora, WebRTC, Firebase, Socket.IO, and PubNub.
+- **Storage Solutions:** Implementing AWS S3, Cloudinary, and Firebase Storage.
+- **Authentication & Notifications:** Utilizing Firebase Auth, Firebase Push Notifications, One Signal SDK, and Notifee.
+- **UI/UX Development:** Developing high-performance layouts with Masonry List and RecyclerView.
+
+I am passionate about continuous learning and growth, and I thrive in collaborative environments where I can contribute to innovative solutions and tackle complex problems.
+
 ## Contact
-  
+
 [![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/husnain-gohar-butt/)](https://www.linkedin.com/in/husnain-gohar-butt/)
